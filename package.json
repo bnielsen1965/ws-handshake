@@ -1,0 +1,15 @@
+{
+  "name": "ws-handshake",
+  "version": "1.0.0",
+  "description": "Example code that demonstrates how a raw TCP/IP connection to an HTTP web server is upgraded into a WebSocket connection.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
+}
